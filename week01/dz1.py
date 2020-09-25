@@ -1,1 +1,2 @@
-print("hello Alexei")
+a={'lector':'Alexei'}
+print("hello {lector}".format(**a))
